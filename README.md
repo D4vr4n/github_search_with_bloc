@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-![Finished App](https://github.com/D4vr4ny/github_search_with_bloc/blob/mian/github_search_demo.gif)
+![Finished App](https://github.com/D4vr4n/github_search_with_bloc/blob/main/github_search_demo.gif)
